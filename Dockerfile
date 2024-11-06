@@ -36,3 +36,4 @@ EXPOSE 8090
 
 # Define the entrypoint
 ENTRYPOINT ["java", "-jar", "users.jar"]
+
